@@ -1,0 +1,5 @@
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\DataObjects\bin\Debug\DataObjects.dll
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\DataObjects\bin\Debug\DataObjects.pdb
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\DataObjects\obj\Debug\DataObjects.dll
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\DataObjects\obj\Debug\DataObjects.pdb

@@ -1,0 +1,9 @@
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\DataAccessLayer\bin\Debug\DataObjects.dll
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\DataAccessLayer\bin\Debug\DataObjects.pdb
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

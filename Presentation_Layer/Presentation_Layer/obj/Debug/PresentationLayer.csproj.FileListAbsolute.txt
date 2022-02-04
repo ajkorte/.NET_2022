@@ -1,0 +1,16 @@
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\bin\Debug\Presentation_Layer.exe.config
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\bin\Debug\Presentation_Layer.exe
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\bin\Debug\Presentation_Layer.pdb
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\bin\Debug\DataObjects.dll
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\bin\Debug\LogicLayer.dll
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\bin\Debug\DataObjects.pdb
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\bin\Debug\LogicLayer.pdb
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\obj\Debug\Presentation_Layer.frmMain.resources
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\obj\Debug\Presentation_Layer.exe
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\obj\Debug\Presentation_Layer.pdb
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\obj\Debug\Presentation_Layer.CardResources.resources

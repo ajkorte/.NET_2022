@@ -1,0 +1,9 @@
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\bin\Debug\Presentation_Layer.exe.config
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\bin\Debug\Presentation_Layer.exe
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\bin\Debug\Presentation_Layer.pdb
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\obj\Debug\Presentation_Layer.csproj.AssemblyReference.cache
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\obj\Debug\Presentation_Layer.csproj.GenerateResource.cache
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\obj\Debug\Presentation_Layer.csproj.CoreCompileInputs.cache
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\obj\Debug\Presentation_Layer.exe
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\Presentation_Layer\obj\Debug\Presentation_Layer.pdb
